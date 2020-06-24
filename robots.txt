@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+Disallow: /menu/
+Disallow: /events.html
+Disallow: /events2.html
+Disallow: /team_single.html
+Disallow: /interactive_menu.html
+Disallow: /404_default.html
+Sitemap: http://olivka-tlt.ru/sitemap.xml

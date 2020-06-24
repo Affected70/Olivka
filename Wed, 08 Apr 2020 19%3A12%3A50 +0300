@@ -1,0 +1,14 @@
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	<html xmlns="http://www.w3.org/1999/xhtml">
+	<head></head>
+	<body>
+	<table>
+	<tr><td>Имя: </td><td>Юлия</td></tr>
+	<tr><td>Телефон: </td><td>89198104596</td></tr>
+	<tr><td>Сообщение: </td><td>Добрый вечер. Хотела бы записать дочь 21.11.2015 на пробное занятие.</td></tr>
+	<tr><td>Направления: </td><td>Художественная гимнастика</td></tr>
+	</table>
+	</body>
+	</html>
