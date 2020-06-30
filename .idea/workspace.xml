@@ -1,8 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="new lunches" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="new lunches">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/02.06/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/02.06/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Новая папка/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/Новая папка/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/Новая папка/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/Новая папка/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/corporate.html" beforeDir="false" afterPath="$PROJECT_DIR$/corporate.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu/lunch/lunch1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/lunch/lunch1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/menu/lunch/lunch2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/lunch/lunch2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/partners.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +46,6 @@
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="olivka-tlt.ru" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -33,12 +66,18 @@
   </component>
   <component name="ProjectId" id="1TDJDhXVPFR2FrKhxzhsyBJGyDo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/gallery/easter_cake" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -56,18 +95,6 @@
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\cakes" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\interactive_menu\bar_menu\old_01_12_2019" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration default="true" type="js.build_tools.gulp">
@@ -267,6 +294,8 @@
       <workItem from="1587904389876" duration="625000" />
       <workItem from="1591771341753" duration="849000" />
       <workItem from="1592545153822" duration="339000" />
+      <workItem from="1593535925739" duration="64000" />
+      <workItem from="1593536019951" duration="1574000" />
     </task>
     <task id="LOCAL-00001" summary="new lunch, breakfast">
       <created>1481047354344</created>
@@ -293,7 +322,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -335,18 +364,17 @@
         </entry>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="OPEN_TABS">
-      <set>
-        <option value="1" />
-      </set>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -360,5 +388,23 @@
     <MESSAGE value="new lunch, breakfast" />
     <MESSAGE value="new lunches" />
     <option name="LAST_COMMIT_MESSAGE" value="new lunches" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1593535954905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593535954905" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1593537257679">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593537257679" />
+    <state x="586" y="16" width="747" height="1008" key="find.popup" timestamp="1593537332871">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="16" width="747" height="1008" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593537332871" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1593537023768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593537023768" />
   </component>
 </project>
