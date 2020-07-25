@@ -8,10 +8,11 @@
         //BG SLIDESHOW WITH ZOOM EFFECT
         var images_col;
         if (window.innerWidth > 760) {
-            images_col = ["img/background/bg_1.jpg", "img/background/bg_2.jpg", "img/background/bg_20_new.jpg", "img/background/bg_22.jpg"];
+            images_col = ["img/background/img_14.jpg", "img/background/img_16.jpg", "img/background/img_15.jpg", "img/background/img_17.jpg"];
+            /*images_col = ["img/background/bg_1.jpg", "img/background/bg_2.jpg", "img/background/bg_20_new.jpg", "img/background/bg_22.jpg"];*/
         }
         else {
-            images_col = ["img/background/bg_1.jpg"];
+            images_col = ["img/background/img_14.jpg"];
         }
         $.mbBgndGallery.buildGallery({
             containment:"body",

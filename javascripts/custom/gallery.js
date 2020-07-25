@@ -18,7 +18,7 @@ jQuery(window).load(function () {
     var selector;
     if (menu_type == '')
     {
-        menu_type = "#interior";
+        menu_type = "#personal";
     }
 
     $(menu_type).parent('li').addClass('activeFilter');
