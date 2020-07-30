@@ -19,36 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="убрал кулич, вернул бизнес ланч">
+    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="последние изменения">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404_default.html" beforeDir="false" afterPath="$PROJECT_DIR$/404_default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/index2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/404_default.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/404_default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/partners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/corporate.html" beforeDir="false" afterPath="$PROJECT_DIR$/corporate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/events2.html" beforeDir="false" afterPath="$PROJECT_DIR$/events2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/breakfasts/breakfast1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/breakfasts/breakfast2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/index_test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascripts/custom/gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/custom/gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascripts/custom/mbBgGallery_init.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/custom/mbBgGallery_init.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/seasonal_offer_interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/seasonal_offer_interactive_menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/partners.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -311,7 +285,7 @@
       <workItem from="1594179949323" duration="683000" />
       <workItem from="1594361311125" duration="1175000" />
       <workItem from="1594447859273" duration="150000" />
-      <workItem from="1595656614041" duration="3261000" />
+      <workItem from="1595656614041" duration="4057000" />
     </task>
     <task id="LOCAL-00001" summary="new lunch, breakfast">
       <created>1481047354344</created>
@@ -341,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593537638493</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="последние изменения">
+      <created>1595660064513</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595660064513</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,7 +392,8 @@
     <MESSAGE value="new lunch, breakfast" />
     <MESSAGE value="new lunches" />
     <MESSAGE value="убрал кулич, вернул бизнес ланч" />
-    <option name="LAST_COMMIT_MESSAGE" value="убрал кулич, вернул бизнес ланч" />
+    <MESSAGE value="последние изменения" />
+    <option name="LAST_COMMIT_MESSAGE" value="последние изменения" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594182829637">
@@ -422,21 +404,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593537257679" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1595659867510">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1595660513526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595659867510" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1593537781179">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595660513526" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1595660340170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1593537781179" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595660340170" />
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595660009662">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595660009662" />
     <state x="586" y="16" width="747" height="1008" key="find.popup" timestamp="1595658671962">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="16" width="747" height="1008" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595658671962" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595658527463">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595660465808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595658527463" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1595660465808" />
   </component>
 </project>

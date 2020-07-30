@@ -12,7 +12,7 @@
             /*images_col = ["img/background/bg_1.jpg", "img/background/bg_2.jpg", "img/background/bg_20_new.jpg", "img/background/bg_22.jpg"];*/
         }
         else {
-            images_col = ["img/background/img_14.jpg"];
+            images_col = ["img/background/img_15.jpg"];
         }
         $.mbBgndGallery.buildGallery({
             containment:"body",
