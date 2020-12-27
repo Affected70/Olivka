@@ -41,7 +41,7 @@
     <!-- Custom Fonts Setup via Font-face CSS3 -->
     <link href="fonts/fonts.css" rel="stylesheet">
     <!-- Main Template Styles -->
-    <link href="stylesheets/main.css?version=6" rel="stylesheet">
+    <link href="stylesheets/main.css?version=7" rel="stylesheet">
     <!-- Main Template Responsive Styles -->
     <link href="stylesheets/main-responsive.css" rel="stylesheet">
     <link rel="stylesheet" href="stylesheets/lightbox.min.css">
@@ -123,11 +123,11 @@
                         <li><a href="/">
                             <div>На Главную</div>
                         </a></li>
-                        <li><a href="main_menu.html" target="_blank">
+                        <li><a href="main_menu.html?version=2" target="_blank">
                             <div>Меню</div>
                         </a>
                             <ul>
-                                <li class="item"><a href="main_menu.html" target="_blank">
+                                <li class="item"><a href="main_menu.html?version=2" target="_blank">
                                     <div>Основное Меню</div>
                                 </a></li>
                                 <li class="item"><a href="menu.html#breakfast" data-filter=".breakfast">
@@ -141,6 +141,12 @@
                                 </a></li>
                                 <li class="item"><a href="menu.html#wine_map" target="_blank">
                                     <div>Винная карта</div>
+                                </a></li>
+                                <li class="item"><a href="menu.html#christmas" target="_blank">
+									<div>Рождественское меню</div>
+                                </a></li>
+								<li class="item"><a href="menu.html#pizza" target="_blank">
+									<div>Пицца с собой</div>
                                 </a></li>
 <!--                                <li class="item"><a href="menu.html#prepack" target="_blank">
                                     <div>Полуфабрикаты</div>
@@ -174,9 +180,9 @@
 <!--                        <li class="item"><a href="menu.html#easter_cake" target="_blank">
                             <div>Пасха 2020</div>
                         </a></li>-->
-<!--                        <li><a href="corporate.html" target="_blank">
-                            <div>Новогодние корпоративы</div>
-                        </a></li>-->
+                       <li><a href="corporate.html" target="_blank">
+                                                    <div>Новогодние корпоративы</div>
+                                                </a></li>
 
                     </ul>
                 </nav>
@@ -200,11 +206,10 @@
                     <li><a href="menu.html#breakfast" data-filter=".breakfast" id="breakfast">Завтраки</a></li>
                     <li><a href="menu.html#lunch" data-filter=".lunch" id="lunch">Бизнес Ланчи</a></li>
                     <li><a href="menu.html#bar_menu" data-filter=".bar_menu" id="bar_menu">Барное меню</a></li>
-                    <li><a href="menu.html#wine_map" data-filter=".wine_map" id="wine_map">Винная карта</a></li>
-                    <li><a href="menu.html#seasonal" data-filter=".seasonal" id="seasonal">Сезонное меню</a></li>
-                    <li><a href="menu.html#hookah" data-filter=".hookah" id="hookah">Кальян</a></li>
-                    <li><a href="menu.html#prepack" data-filter=".prepack" id="prepack">Полуфабрикаты</a></li>
-                   <!--<li><a href="menu.html#easter_cake" data-filter=".easter_cake" id="easter_cake">Куличи</a></li>-->
+                    <li><a href="menu.html#pizza" data-filter=".pizza" id="pizza">Пицца с собой</a></li>
+                    <li><a href="menu.html#tea" data-filter=".tea" id="tea">Чайная карта</a></li>
+
+                    <!--<li><a href="menu.html#easter_cake" data-filter=".easter_cake" id="easter_cake">Куличи</a></li>-->
 
 
                     <!--             <li><a href="menu.html#post" data-filter=".post" id="post">Постное Меню</a></li>-->
@@ -215,17 +220,14 @@
                          <li><a href="menu.html#salads" data-filter=".salads" id="salads">Салаты</a></li>
                          <li><a href="menu.html#snacks" data-filter=".snacks" id="snacks">Закуски</a></li>-->
                 </ul>
-                <!--<ul class="menu-fillter clearfix">
+                <ul class="menu-fillter clearfix">
                 <br>
-                    <li><a href="menu.html#first_meal" data-filter=".first_meal" id="first_meal">Супы</a></li>
-                    <li><a href="menu.html#second_meal" data-filter=".second_meal" id="second_meal">Горячие блюда</a></li>
-                    <li><a href="menu.html#rizotto" data-filter=".rizotto" id="rizotto">Лазанья и Ризотто</a></li>
-                    <li><a href="menu.html#pasta" data-filter=".pasta" id="pasta">Паста</a></li>
-                    <li><a href="menu.html#garnish" data-filter=".garnish" id="garnish">Гарниры и Хлеб</a></li>
-                    <li><a href="menu.html#pizza" data-filter=".pizza" id="pizza">Пицца</a></li>
-                    <li><a href="menu.html#deserts" data-filter=".deserts" id="deserts">Десерты</a></li>
+                    <li><a href="menu.html#wine_map" data-filter=".wine_map" id="wine_map">Винная карта</a></li>
+                    <li><a href="menu.html#seasonal" data-filter=".seasonal" id="seasonal">Сезонное меню</a></li>
+                    <li><a href="menu.html#christmas" data-filter=".christmas" id="christmas">Рождественское меню</a></li>
                     <li><a href="menu.html#hookah" data-filter=".hookah" id="hookah">Кальян</a></li>
-                </ul>-->
+                    <li><a href="menu.html#prepack" data-filter=".prepack" id="prepack">Полуфабрикаты</a></li>
+                </ul>
                 <!--  #menu-filter end -->
             </div>
             <!--  End menu bar -->
@@ -249,8 +251,16 @@
                     <article class="lunch menu-item lunch_new3">
                         <div id="owl-demo2" class="owl-carousel owl-theme">
 
-                            <div class="item"><img src="img/menu/lunch/lunch1.jpg?version=11" alt=" "></div>
-                            <div class="item"><img src="img/menu/lunch/lunch2.jpg?version=11" alt=" "></div>
+                            <div class="item"><img src="img/menu/lunch/lunch1.jpg?version=15" alt=" "></div>
+                            <div class="item"><img src="img/menu/lunch/lunch2.jpg?version=15" alt=" "></div>
+                        </div>
+                    </article>
+
+                    <article class="christmas menu-item lunch_new3">
+                        <div id="owl-demo5" class="owl-carousel owl-theme">
+
+                            <div class="item"><img src="img/menu/christmas/christmas1.jpg?version=14" alt=" "></div>
+                            <div class="item"><img src="img/menu/christmas/christmas2.jpg?version=14" alt=" "></div>
                         </div>
                     </article>
 
@@ -259,6 +269,41 @@
 
                             <div class="item"><img src="img/menu/prepack/prepack1.jpg?version=1" alt=" "></div>
                             <div class="item"><img src="img/menu/prepack/prepack2.jpg?version=1" alt=" "></div>
+                        </div>
+                    </article>
+
+                    <article class="tea menu-item lunch_new3">
+                        <div id="owl-demo6" class="owl-carousel owl-theme">
+
+                            <div class="item"><img src="img/tea/1.jpg?version=12" alt=" "></div>
+                            <div class="item"><img src="img/tea/2.jpg?version=22" alt=" "></div>
+                            <div class="item"><img src="img/tea/3.jpg?version=32" alt=" "></div>
+                            <div class="item"><img src="img/tea/4.jpg?version=42" alt=" "></div>
+                            <div class="item"><img src="img/tea/5.jpg?version=52" alt=" "></div>
+                            <div class="item"><img src="img/tea/6.jpg?version=62" alt=" "></div>
+                            <div class="item"><img src="img/tea/7.jpg?version=72" alt=" "></div>
+                            <div class="item"><img src="img/tea/8.jpg?version=82" alt=" "></div>
+                            <div class="item"><img src="img/tea/9.jpg?version=92" alt=" "></div>
+                            <div class="item"><img src="img/tea/10.jpg?version=101" alt=" "></div>
+                            <div class="item"><img src="img/tea/11.jpg?version=111" alt=" "></div>
+                            <div class="item"><img src="img/tea/12.jpg?version=121" alt=" "></div>
+                            <div class="item"><img src="img/tea/13.jpg?version=131" alt=" "></div>
+                            <div class="item"><img src="img/tea/14.jpg?version=141" alt=" "></div>
+                            <div class="item"><img src="img/tea/15.jpg?version=151" alt=" "></div>
+                            <div class="item"><img src="img/tea/16.jpg?version=161" alt=" "></div>
+                            <div class="item"><img src="img/tea/17.jpg?version=171" alt=" "></div>
+                            <div class="item"><img src="img/tea/18.jpg?version=181" alt=" "></div>
+                            <div class="item"><img src="img/tea/19.jpg?version=191" alt=" "></div>
+                            <div class="item"><img src="img/tea/20.jpg?version=201" alt=" "></div>
+                            <div class="item"><img src="img/tea/21.jpg?version=211" alt=" "></div>
+                            <div class="item"><img src="img/tea/22.jpg?version=221" alt=" "></div>
+                            <div class="item"><img src="img/tea/23.jpg?version=231" alt=" "></div>
+                            <div class="item"><img src="img/tea/24.jpg?version=241" alt=" "></div>
+                            <div class="item"><img src="img/tea/25.jpg?version=251" alt=" "></div>
+                            <div class="item"><img src="img/tea/26.jpg?version=261" alt=" "></div>
+                            <div class="item"><img src="img/tea/27.jpg?version=271" alt=" "></div>
+                            <div class="item"><img src="img/tea/28.jpg?version=281" alt=" "></div>
+
                         </div>
                     </article>
 
@@ -278,8 +323,8 @@
                         <div id="owl-demo3" class="owl-carousel owl-theme">
 
 
-                            <div class="item"><img src="img/menu/wine_map/wine5.jpg" alt=" "></div>
-                            <div class="item"><img src="img/menu/wine_map/wine6.jpg" alt=" "></div>
+                            <div class="item"><img src="img/menu/wine_map/wine5.jpg?version=2" alt=" "></div>
+                            <div class="item"><img src="img/menu/wine_map/wine6.jpg?version=2" alt=" "></div>
                         </div>
                     </article>
 
@@ -378,6 +423,17 @@
                         <!--  End Overlay Content -->
                     </article>
 
+                    <article class="menu-item pizza">
+                        <div class="menu-thumb-slide">
+                            <div>
+                                <div class="item">
+                                    <div class="image-center1"><img class="image-center1"
+                                                                    src="img/menu/pizza/pizza.jpg?version=1" alt=""></div>
+                                </div>
+                            </div>
+                        </div>
+                        <!--  End Overlay Content -->
+                    </article>
 
                     <!--  End Menu Item -->
                     <!--  Menu Item -->
@@ -431,9 +487,9 @@
                     <article class="breakfast breakfast menu-item lunch_new3">
                         <div id="owl-demo" class="owl-carousel owl-theme">
 
-                            <div class="item"><img src="img/menu/breakfasts/breakfast1.jpg?version=3" alt=" "></div>
-                            <div class="item"><img src="img/menu/breakfasts/breakfast2.jpg?version=3" alt=" "></div>
-3
+                            <div class="item"><img src="img/menu/breakfasts/breakfast1.jpg?version=4" alt=" "></div>
+                            <div class="item"><img src="img/menu/breakfasts/breakfast2.jpg?version=4" alt=" "></div>
+
                         </div>
                     </article>
 
@@ -731,7 +787,7 @@
 <script src="javascripts/libs/modernizr.js"></script>
 <!-- JS Custom Codes -->
 <script src="javascripts/custom/menu.js"></script>
-<script src="javascripts/custom/main.js?version=4"></script>
+<script src="javascripts/custom/main.js?version=5"></script>
 
 
 </body>

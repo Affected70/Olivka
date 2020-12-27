@@ -439,6 +439,12 @@ textarea:focus {
     -webkit-transition: all 0.5s ease;
     transition: all 0.5s ease;
 }
+
+.btn-gold.height-more {
+    border: 4px solid #c59d5f !important;
+    height: 60px !important;
+}
+
 .btn-gold {
     background-color: transparent;
 }
@@ -1638,6 +1644,11 @@ body.stretched #header.full-header #main-menu ul li.mega-menu .mega-menu-content
 .slider-content>.text-size-52 {
     font-size: 52px;
 }
+
+.slider-content>.corporate {
+    font-size: 42px;
+}
+
 #slider {
     position: relative;
     width: 100%;
@@ -6533,10 +6544,14 @@ a.thumbnail.active {
 .breakfast .owl-theme .owl-nav .owl-next:hover,
 .lunch .owl-theme .owl-nav .owl-prev:hover,
 .lunch .owl-theme .owl-nav .owl-next:hover,
+.christmas .owl-theme .owl-nav .owl-prev:hover,
+.christmas .owl-theme .owl-nav .owl-next:hover,
 .wine_map .owl-theme .owl-nav .owl-prev:hover,
 .wine_map .owl-theme .owl-nav .owl-next:hover,
 .prepack .owl-theme .owl-nav .owl-prev:hover,
-.prepack .owl-theme .owl-nav .owl-next:hover
+.prepack .owl-theme .owl-nav .owl-next:hover,
+.tea .owl-theme .owl-nav .owl-prev:hover,
+.tea .owl-theme .owl-nav .owl-next:hover
 {
     background-color: #c59d5f; !important;
     color: #ffffff;
@@ -6545,15 +6560,20 @@ a.thumbnail.active {
 
 .breakfast .owl-theme .owl-nav div,
 .lunch .owl-theme .owl-nav div,
+.christmas .owl-theme .owl-nav div,
 .wine_map .owl-theme .owl-nav div,
-.prepack .owl-theme .owl-nav div{
+.prepack .owl-theme .owl-nav div,
+.tea .owl-theme .owl-nav div
+{
     position: absolute;
 }
 
 .breakfast .owl-theme .owl-nav .owl-prev,
 .lunch .owl-theme .owl-nav .owl-prev,
+.christmas .owl-theme .owl-nav .owl-prev,
 .wine_map .owl-theme .owl-nav .owl-prev,
-.prepack .owl-theme .owl-nav .owl-prev
+.prepack .owl-theme .owl-nav .owl-prev,
+.tea .owl-theme .owl-nav .owl-prev
 {
     left: -60px;
     top: 410px;
@@ -6563,8 +6583,10 @@ a.thumbnail.active {
 
 .breakfast .owl-theme .owl-nav .owl-next,
 .lunch .owl-theme .owl-nav .owl-next,
+.christmas .owl-theme .owl-nav .owl-next,
 .wine_map .owl-theme .owl-nav .owl-next,
-.prepack .owl-theme .owl-nav .owl-next
+.prepack .owl-theme .owl-nav .owl-next,
+.tea .owl-theme .owl-nav .owl-next
 {
     right: -60px;
     top: 410px;
@@ -6574,8 +6596,10 @@ a.thumbnail.active {
 
 .breakfast .owl-theme .owl-nav div,
 .lunch .owl-theme .owl-nav div,
+.christmas .owl-theme .owl-nav div,
 .wine_map .owl-theme .owl-nav div,
-.prepack .owl-theme .owl-nav div
+.prepack .owl-theme .owl-nav div,
+.tea .owl-theme .owl-nav div
 {
     background: rgba(32, 32, 32, 0.95);
  /*   display: none;*/
@@ -6596,6 +6620,9 @@ a.thumbnail.active {
     -o-transition: background-color 0.2s linear;
 }
 
+.owl-theme .owl-dots {
+    margin-left: -40px;
+}
 
 /*  ============  RETINA READY  ============ */
 
@@ -6636,8 +6663,10 @@ a.thumbnail.active {
 
     .breakfast .owl-theme .owl-nav .owl-next,
     .lunch .owl-theme .owl-nav .owl-next,
+    .christmas .owl-theme .owl-nav .owl-next,
     .wine_map .owl-theme .owl-nav .owl-next,
-    .prepack .owl-theme .owl-nav .owl-next
+    .prepack .owl-theme .owl-nav .owl-next,
+    .tea .owl-theme .owl-nav .owl-next
     {
         right: 15px;
     }
@@ -6664,16 +6693,21 @@ a.thumbnail.active {
 
     .breakfast .owl-theme .owl-nav .owl-prev,
     .lunch .owl-theme .owl-nav .owl-prev,
+    .christmas .owl-theme .owl-nav .owl-prev,
     .wine_map .owl-theme .owl-nav .owl-prev,
-    .prepack .owl-theme .owl-nav .owl-prev
+    .prepack .owl-theme .owl-nav .owl-prev,
+    .tea .owl-theme .owl-nav .owl-prev
     {
         top: 440px !important;
     }
 
     .breakfast .owl-theme .owl-nav .owl-next,
     .lunch .owl-theme .owl-nav .owl-next,
+    .christmas .owl-theme .owl-nav .owl-next,
     .wine_map .owl-theme .owl-nav .owl-next,
-    .prepack .owl-theme .owl-nav .owl-next{
+    .prepack .owl-theme .owl-nav .owl-next,
+    .tea .owl-theme .owl-nav .owl-next
+    {
         top: 440px !important;
         right: -60px;
     }
@@ -6705,16 +6739,20 @@ a.thumbnail.active {
 
     .breakfast .owl-theme .owl-nav .owl-prev,
     .lunch .owl-theme .owl-nav .owl-prev,
+    .christmas .owl-theme .owl-nav .owl-prev,
     .wine_map .owl-theme .owl-nav .owl-prev,
-    .prepack .owl-theme .owl-nav .owl-prev
+    .prepack .owl-theme .owl-nav .owl-prev,
+    .tea .owl-theme .owl-nav .owl-prev
     {
         top: 440px !important;
     }
 
     .breakfast .owl-theme .owl-nav .owl-next,
     .lunch .owl-theme .owl-nav .owl-next,
+    .christmas .owl-theme .owl-nav .owl-next,
     .wine_map .owl-theme .owl-nav .owl-next,
-    .prepack .owl-theme .owl-nav .owl-next
+    .prepack .owl-theme .owl-nav .owl-next,
+    .tea .owl-theme .owl-nav .owl-next
     {
         top: 440px !important;
         right: 10px;
@@ -6727,6 +6765,14 @@ a.thumbnail.active {
 
 @media (min-width: 320px) and (max-width: 600px) {
 
+    .slider-content>.corporate {
+        font-size: 22px;
+    }
+
+    .btn-gold.height-more {
+        border: 3px solid #c59d5f !important;
+        height: 40px !important;
+    }
 
     .lunch_new3 {
         margin: -25px 40px 0 !important;
@@ -6746,15 +6792,21 @@ a.thumbnail.active {
 
     .breakfast .owl-theme .owl-nav .owl-prev,
     .lunch .owl-theme .owl-nav .owl-prev,
-    .prepack .owl-theme .owl-nav .owl-prev{
+    .christmas .owl-theme .owl-nav .owl-prev,
+    .prepack .owl-theme .owl-nav .owl-prev,
+    .tea .owl-theme .owl-nav .owl-prev
+    {
         top: 160px !important;
         display: none;
     }
 
     .breakfast .owl-theme .owl-nav .owl-next,
     .lunch .owl-theme .owl-nav .owl-next,
+    .christmas .owl-theme .owl-nav .owl-next,
     .wine_map .owl-theme .owl-nav .owl-next,
-    .prepack .owl-theme .owl-nav .owl-next{
+    .prepack .owl-theme .owl-nav .owl-next,
+    .tea .owl-theme .owl-nav .owl-next
+    {
         top: 160px !important;
         right: -25px;
         display: none;
@@ -6786,16 +6838,22 @@ a.thumbnail.active {
 
     .breakfast .owl-theme .owl-nav .owl-prev,
     .lunch .owl-theme .owl-nav .owl-prev,
+    .christmas .owl-theme .owl-nav .owl-prev,
     .wine_map .owl-theme .owl-nav .owl-prev,
-    .prepack .owl-theme .owl-nav .owl-prev{
+    .prepack .owl-theme .owl-nav .owl-prev,
+    .tea .owl-theme .owl-nav .owl-prev
+    {
         top: 160px !important;
         display: none;
     }
 
     .breakfast .owl-theme .owl-nav .owl-next,
     .lunch .owl-theme .owl-nav .owl-next,
+    .christmas .owl-theme .owl-nav .owl-next,
     .wine_map .owl-theme .owl-nav .owl-next,
-    .prepack .owl-theme .owl-nav .owl-next{
+    .prepack .owl-theme .owl-nav .owl-next,
+    .tea .owl-theme .owl-nav .owl-next
+    {
         top: 160px !important;
         right: -25px;
         display: none;
@@ -6815,7 +6873,9 @@ a.thumbnail.active {
 #owl-demo .item,
 #owl-demo2 .item,
 #owl-demo3 .item,
-#owl-demo4 .item
+#owl-demo4 .item,
+#owl-demo5 .item,
+#owl-demo6 .item
 {
     position: relative;
     min-height: 1px;
@@ -6875,8 +6935,10 @@ a.thumbnail.active {
 .breakfast .menu-item-list  p,
 .breakfast h1,
 .lunch .menu-item-list  p,
+.christmas .menu-item-list  p,
 .wine_map .menu-item-list  p,
 .prepack .menu-item-list  p,
+.tea .menu-item-list  p,
 .lunch h1{
     margin-top: 0; !important;
 }
@@ -6950,7 +7012,10 @@ a.thumbnail.active {
     max-width: 100%;
 }
 
-.breakfast .desc-content, .lunch .desc-content {
+.breakfast .desc-content
+, .lunch .desc-content
+, .christmas .desc-content
+{
     margin-left: -15px; !important;
 }
 
@@ -7032,7 +7097,9 @@ p {
 #owl-demo .item img,
 #owl-demo2 .item img,
 #owl-demo3 .item img,
-#owl-demo4 .item img
+#owl-demo4 .item img,
+#owl-demo5 .item img,
+#owl-demo6 .item img
 {
     display: block;
     width: 100%;

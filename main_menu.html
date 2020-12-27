@@ -49,30 +49,37 @@
             </div>-->
             <div class="menu_list text-left">
                 <div class="col-md-6 text-left america_style">
-                    <h3 class="goto" id="4">Гарниры</h3>
-                    <h3 class="goto" id="6">Мясо</h3>
-                    <h3 class="goto" id="8">Блюда из рыбы</h3>
-                    <h3 class="goto" id="10">Горячие блюда</h3>
-                    <h3 class="goto" id="12">Супы</h3>
-                    <h3 class="goto" id="14">Салаты</h3>
+                    <h3 class="goto" id="4">Роллы</h3>
+                    <h3 class="goto" id="8">Гарниры</h3>
+                    <h3 class="goto" id="10">Мясо</h3>
+                    <h3 class="goto" id="12">Рыба</h3>
+                    <h3 class="goto" id="14">Горячие блюда</h3>
+                    <h3 class="goto" id="16">Хлеб/Супы</h3>
+                    <h3 class="goto" id="18">Салаты</h3>
+                    <h3 class="goto" id="20">Закуски</h3>
+                    <h3 class="goto" id="24">Ризотто</h3>
                 </div>
                 <div class="col-md-6 text-right">
-                    <h3 class="goto" id="16">Закуски</h3>
-                    <h3 class="goto" id="20">Ризотто</h3>
-                    <h3 class="goto" id="21">Лазанья</h3>
-                    <h3 class="goto" id="22">Паспа</h3>
-                    <h3 class="goto" id="24">Пицца</h3>
-                    <h3 class="goto" id="26">Десерты</h3>
+                    <h3 class="goto" id="25">Лазанья</h3>
+                    <h3 class="goto" id="26">Паста</h3>
+                    <h3 class="goto" id="28">Пицца</h3>
+                    <h3 class="goto" id="30">Десерты</h3>
+                    <h3 class="goto" id="32">Чайная карта</h3>
+                    <h3 class="goto" id="33">Кофейная карта</h3>
+                    <h3 class="goto" id="34">Напитки</h3>
+                    <h3 class="goto" id="35">Коктейли</h3>
+                    <h3 class="goto" id="36">Алкоголь</h3>
                 </div>
             </div>
         </div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
         <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
+        <div></div><div></div><div></div><div></div><div></div><div></div>
         <div class="hard"></div>
-        <div class="hard"><img src="img/interactive_menu/32.jpg" alt=""/></div>
+        <div class="hard"><img src="img/interactive_menu/45.jpg" alt=""/></div>
     </div>
 </div>
-<script type="text/javascript" src="javascripts/libs/turn/interactive_menu.js"></script>
+<script type="text/javascript" src="javascripts/libs/turn/interactive_menu.js?version=2"></script>
 <script type="text/javascript">
     var maxWidth = $(window).width();
     var maxHeight = $(window).height();
@@ -87,7 +94,7 @@
                 loadImagesWithShadow(page.page);
                 $("#flipbook").turn('update');
                 var book = $(this);
-                if (page < 27)
+                if (page < 38)
                     $('#flipbook .tabs').fadeOut(1000);
 
                 updateTabs();
@@ -98,7 +105,7 @@
 
                 var book = $(this);
                 console.log(book.totalPages);
-                if (page > 3 && page < 28)
+                if (page > 3 && page < 39)
                     $('#flipbook .tabs').fadeIn(1000);
                 else
                     $('#flipbook .tabs').fadeOut(1000);
