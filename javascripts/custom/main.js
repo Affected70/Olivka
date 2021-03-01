@@ -1179,6 +1179,11 @@ jQuery(window).load(function () {
             var win = window.open("bar_menu.html", '_blank');
             win.focus();
         }
+        else if (menu_filter == '.special')
+        {
+            var win = window.open("special_offer_interactive_menu.html", '_blank');
+            win.focus();
+        }
         else if (menu_filter == '.seasonal')
         {
             var win = window.open("seasonal_offer_interactive_menu.html", '_blank');

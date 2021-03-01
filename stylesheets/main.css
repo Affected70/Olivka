@@ -1641,8 +1641,13 @@ body.stretched #header.full-header #main-menu ul li.mega-menu .mega-menu-content
     letter-spacing: 5px;
 }
 
-.slider-content>.text-size-52 {
+.slider-content > .text-size-52 {
     font-size: 52px;
+}
+
+.slider-content > .golden-text {
+    text-shadow: 2px 2px 5px rgb(255,215,0, 0.5), black 2px 2px 5px, black 2px 2px 5px, black 2px 2px 5px;
+    color: gold;
 }
 
 .slider-content>.corporate {
