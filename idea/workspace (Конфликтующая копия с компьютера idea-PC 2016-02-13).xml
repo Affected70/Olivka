@@ -137,7 +137,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/second_meal/grilled_chicken_with_potatoes.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/snacks/herring_with_potatoes.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interactive_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js?version=2" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/deserts/italian_classic.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/deserts/lava_cake.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/lasagna/meat_lasagna.html" />
@@ -587,7 +587,7 @@
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\animate.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\main.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\mbBgGallery_init.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\menu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\menu.js?version=2" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\custom\videoplayer.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\libs\fullcalendar.min.js" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\LENOVO\Dropbox\Project Olivka 2\www\Source Code\javascripts\libs\html5shiv.js" afterPath="" />

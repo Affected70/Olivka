@@ -58,43 +58,43 @@ function loadImagesWithShadow(page)
         if (i % 2 == 0)
         {
             $(".p" + i).css({
-                background: "-moz-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "-moz-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
             $(".p" + i).css({
-                background: "-moz-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "-moz-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
             $(".p" + i).css({
-                background: "-webkit-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "-webkit-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
             $(".p" + i).css({
-                background: "-o-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "-o-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
             $(".p" + i).css({
-                background: "-ms-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "-ms-linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
             $(".p" + i).css({
-                background: "linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat"
+                background: "linear-gradient(left, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat"
             });
         }
         else
         {
             $(".p" + i).css({
-                background: "-moz-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "-moz-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
             $(".p" + i).css({
-                background: "-webkit-gradient(linear, right top, left top, color-stop(0, rgba(0, 0, 0, 0.3)), color-stop(0.05, rgba(255, 255, 255, 0)), color-stop(1, rgba(255, 255, 255, 0)), color-stop(1, rgba(0, 0, 0, 0.3))), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "-webkit-gradient(linear, right top, left top, color-stop(0, rgba(0, 0, 0, 0.3)), color-stop(0.05, rgba(255, 255, 255, 0)), color-stop(1, rgba(255, 255, 255, 0)), color-stop(1, rgba(0, 0, 0, 0.3))), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
             $(".p" + i).css({
-                background: "-webkit-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "-webkit-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
             $(".p" + i).css({
-                background: "-o-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "-o-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
             $(".p" + i).css({
-                background: "-ms-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "-ms-linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
             $(".p" + i).css({
-                background: "linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=2') no-repeat center center"
+                background: "linear-gradient(right, rgba(0, 0, 0, 0.3) 0%, rgba(255, 255, 255, 0) 5%, rgba(255, 255, 255, 0) 90%, rgba(0, 0, 0, 0.3) 100%), url('img/interactive_menu/bar_menu/" + i + ".jpg?version=3') no-repeat center center"
             });
         }
 

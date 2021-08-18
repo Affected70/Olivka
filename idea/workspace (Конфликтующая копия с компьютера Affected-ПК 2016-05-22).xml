@@ -112,7 +112,7 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/AMERIKA_-webfont.svg" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interactive_menu.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js?version=2" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/libs/turn/turn.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/bread/bread.html" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu/deserts/apple_strudel.html" />
@@ -592,7 +592,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/animate.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/main.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/mbBgGallery_init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/menu.js?version=2" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/custom/videoplayer.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/libs/fullcalendar.min.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../Source Code/javascripts/libs/html5shiv.js" afterPath="" />

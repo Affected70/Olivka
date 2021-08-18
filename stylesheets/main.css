@@ -23,7 +23,8 @@
     font-weight: normal;
     font-style: normal;
     src: url("../fonts/Barkentina/barkentina.eot");
-    src: url("../fonts/Barkentina/barkentina.eot?#iefix") format("embedded-opentype"), url("../fonts/Barkentina/barkentina.woff") format("woff"), url("../fonts/Barkentina/barkentina.ttf") format("truetype"); }
+    src: url("../fonts/Barkentina/barkentina.eot?#iefix") format("embedded-opentype"), url("../fonts/Barkentina/barkentina.woff") format("woff"), url("../fonts/Barkentina/barkentina.ttf") format("truetype");
+}
 
 [class^="icon-"],
 [class*=" icon-"] {
@@ -6586,6 +6587,18 @@ a.thumbnail.active {
     -webkit-transition: all 0.5s ease;
 }
 
+.lunch .owl-theme .owl-nav .owl-prev,
+.christmas .owl-theme .owl-nav .owl-prev,
+.wine_map .owl-theme .owl-nav .owl-prev,
+.prepack .owl-theme .owl-nav .owl-prev,
+.tea .owl-theme .owl-nav .owl-prev
+{
+    left: -60px;
+    top: 410px;
+    transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+}
+
 .breakfast .owl-theme .owl-nav .owl-next,
 .lunch .owl-theme .owl-nav .owl-next,
 .christmas .owl-theme .owl-nav .owl-next,
@@ -7086,6 +7099,18 @@ p {
 
 .image-center1 img {
     margin-left: 25%;
+}
+
+.image-center3 img {
+    margin-left: 50%;
+}
+
+article.full-width {
+    width: 100%
+}
+
+article.half-width {
+    width: 50%
 }
 
 .pasta_on_main_page
