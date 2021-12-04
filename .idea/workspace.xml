@@ -19,27 +19,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="added special offer and a lot of old staff">
-      <change afterPath="$PROJECT_DIR$/img/menu/post_menu/post2.jpeg" afterDir="false" />
+    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="last changes">
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/thumb/20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/thumb/21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/gallery/personal/thumb/22.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/02.06/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/02.06/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/07.04.18/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/07.04.18/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/07.04.18/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/07.04.18/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/07.04.18/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/07.04.18/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backup/07.04.18/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/07.04.18/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup/menu2.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/menu2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backup/07.04.18/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup/07.04.18/partners.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backup_19_08_2018/corporate.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/corporate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/interactive_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/interactive_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/main_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/main_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backup_19_08_2018/menu_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/backup_19_08_2018/menu_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bar_menu2.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar_menu2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/corporate.html" beforeDir="false" afterPath="$PROJECT_DIR$/corporate.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/delivery.html" beforeDir="false" afterPath="$PROJECT_DIR$/delivery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера Affected-ПК 2016-05-22).xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера Affected-ПК 2016-05-22).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера idea-PC 2016-02-13).xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера idea-PC 2016-02-13).xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера idea-PC 2016-05-22).xml" beforeDir="false" afterPath="$PROJECT_DIR$/idea/workspace (Конфликтующая копия с компьютера idea-PC 2016-05-22).xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/10.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/11.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/12.jpg" afterDir="false" />
@@ -65,38 +62,22 @@
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/7.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/interactive_menu/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/9.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/seasonal_offer/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/breakfasts/breakfast1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast1_old.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/breakfasts/breakfast2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/breakfasts/breakfast2_old.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/special_offer/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/special_offer/8.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/menu/lunch/lunch1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/lunch/lunch1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/menu/lunch/lunch2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/lunch/lunch2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/wine_map/wine5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/wine_map/wine5.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/menu/wine_map/wine6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/wine_map/wine6.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interactive_menu_copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/interactive_menu_copy.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/bar_interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/bar_interactive_menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/interactive_menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/seasonal_offer_interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/seasonal_offer_interactive_menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/special_offer_interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/special_offer_interactive_menu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_menu_old.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_menu_old.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_menu_old2.html" beforeDir="false" afterPath="$PROJECT_DIR$/main_menu_old2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/partners.html" beforeDir="false" afterPath="$PROJECT_DIR$/partners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seasonal_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonal_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seasonal_offer_interactive_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonal_offer_interactive_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/special_offer_interactive_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/special_offer_interactive_menu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,24 +117,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/gallery/personal/thumb" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal\thumb" />
+      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal" />
+      <recent name="D:\Git\my_projects\Olivka\img\menu\child" />
+      <recent name="D:\Git\my_projects\Olivka\img\menu\lunch" />
+      <recent name="D:\Git\my_projects\Olivka\img\menu\post_menu" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\interior" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\interior\thumb" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\cakes\thumb" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\cakes" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\interactive_menu\bar_menu\old_01_12_2019" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Git\my_projects\Olivka\img\menu\post_menu" />
-      <recent name="D:\Git\my_projects\Olivka\img\interactive_menu\special_offer" />
-      <recent name="D:\Git\my_projects\Olivka\javascripts\libs\turn" />
-      <recent name="D:\Git\my_projects\Olivka" />
-      <recent name="D:\Git\my_projects\Olivka\img\gallery\cakes\thumb" />
     </key>
   </component>
   <component name="RunManager">
@@ -402,7 +383,24 @@
       <workItem from="1623912566291" duration="327000" />
       <workItem from="1626067323230" duration="115000" />
       <workItem from="1627281493576" duration="1255000" />
-      <workItem from="1629265101436" duration="1187000" />
+      <workItem from="1629265101436" duration="1600000" />
+      <workItem from="1630783734018" duration="593000" />
+      <workItem from="1630910635058" duration="1382000" />
+      <workItem from="1630955173697" duration="584000" />
+      <workItem from="1631466294381" duration="494000" />
+      <workItem from="1631726177054" duration="1799000" />
+      <workItem from="1632036022333" duration="593000" />
+      <workItem from="1633173971297" duration="1594000" />
+      <workItem from="1633243352384" duration="1866000" />
+      <workItem from="1633285386222" duration="13000" />
+      <workItem from="1633286746313" duration="30000" />
+      <workItem from="1633364970524" duration="588000" />
+      <workItem from="1633589366034" duration="260000" />
+      <workItem from="1637267534304" duration="579000" />
+      <workItem from="1638112262998" duration="14000" />
+      <workItem from="1638125229359" duration="587000" />
+      <workItem from="1638290529633" duration="588000" />
+      <workItem from="1638376448249" duration="2115000" />
     </task>
     <task id="LOCAL-00001" summary="new lunch, breakfast">
       <created>1481047354344</created>
@@ -453,7 +451,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614578432007</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="last changes">
+      <created>1629312068868</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1629312068868</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -524,26 +529,26 @@
     <MESSAGE value="new lunches" />
     <MESSAGE value="убрал кулич, вернул бизнес ланч" />
     <MESSAGE value="последние изменения" />
-    <MESSAGE value="last changes" />
     <MESSAGE value="added special offer and a lot of old staff" />
-    <option name="LAST_COMMIT_MESSAGE" value="added special offer and a lot of old staff" />
+    <MESSAGE value="last changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="555" y="337" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623574197847">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1637267685380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="555" y="337" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1623574197847" />
-    <state x="435" y="32" width="747" height="1008" key="find.popup" timestamp="1623574197860">
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1637267685380" />
+    <state x="571" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1637267609091">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="435" y="32" width="747" height="1008" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1623574197860" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1620027068895">
+    <state x="571" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1637267609091" />
+    <state x="666" y="218" width="650" height="694" key="find.popup" timestamp="1637267696980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1620027068895" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1627283755613">
+    <state x="666" y="218" width="650" height="694" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1637267696980" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1638380706678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1627283755613" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1638380706678" />
   </component>
 </project>
