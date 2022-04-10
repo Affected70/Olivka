@@ -19,8 +19,37 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="remove not needed">
+    <list default="true" id="6294a06e-7d4a-4ed8-bddf-c8880bf11600" name="Default" comment="hide map as it not needed">
+      <change afterPath="$PROJECT_DIR$/img/menu/bar/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/bar/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/bar/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/bar/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/menu/bar/5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bar_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/bar_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/interactive_menu/bar_menu/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/interactive_menu/bar_menu/9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/menu/bar/9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/interactive_menu_copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascripts/libs/turn/bar_interactive_menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascripts/libs/turn/bar_interactive_menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lightbox.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_menu_old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_menu_old2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seasonal_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/seasonal_menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,24 +89,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/menu/lunch" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img/interactive_menu/bar_menu" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Git\my_projects\Olivka\img\menu\lunch" />
-      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal\thumb" />
-      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal" />
-      <recent name="D:\Git\my_projects\Olivka\img\menu\child" />
-      <recent name="D:\Git\my_projects\Olivka\img\menu\post_menu" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\interior" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\interior\thumb" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\cakes\thumb" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\gallery\cakes" />
       <recent name="F:\Dropbox\Project Olivka 2\www\olivka-tlt.ru\img\interactive_menu\bar_menu\old_01_12_2019" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\my_projects\Olivka\img\interactive_menu\bar_menu" />
+      <recent name="D:\Git\my_projects\Olivka\img\menu\bar" />
+      <recent name="D:\Git\my_projects\Olivka\img\menu\lunch" />
+      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal\thumb" />
+      <recent name="D:\Git\my_projects\Olivka\img\gallery\personal" />
     </key>
   </component>
   <component name="RunManager">
@@ -361,7 +390,7 @@
       <workItem from="1649180501834" duration="875000" />
       <workItem from="1649266068010" duration="751000" />
       <workItem from="1649325520809" duration="1472000" />
-      <workItem from="1649582474016" duration="1231000" />
+      <workItem from="1649582474016" duration="10951000" />
     </task>
     <task id="LOCAL-00001" summary="new lunch, breakfast">
       <created>1481047354344</created>
@@ -454,7 +483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649583261670</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="hide map as it not needed">
+      <created>1649583815779</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1649583815779</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,6 +534,31 @@
             </State>
           </value>
         </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:D:/Git/my_projects/Olivka/img/interactive_menu" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
@@ -508,6 +569,7 @@
     <option name="OPEN_GENERIC_TABS">
       <map>
         <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
@@ -528,28 +590,37 @@
     <MESSAGE value="added special offer and a lot of old staff" />
     <MESSAGE value="last changes" />
     <MESSAGE value="remove not needed" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove not needed" />
+    <MESSAGE value="hide map as it not needed" />
+    <option name="LAST_COMMIT_MESSAGE" value="hide map as it not needed" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="498" height="446" key="SwitcherDM" timestamp="1649325918719">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1649586546824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649325918719" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649583262711">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649586546824" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1649591385409">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649583262711" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649591385409" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1649591877865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649591877865" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1649583816746">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649583816746" />
     <state x="570" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1648751836324">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="570" y="187" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1648751836324" />
-    <state x="406" y="110" width="1156" height="917" key="find.popup" timestamp="1649583364500">
+    <state x="406" y="110" width="1156" height="917" key="find.popup" timestamp="1649586595378">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="406" y="110" width="1156" height="917" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649583364500" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1649326171612">
+    <state x="406" y="110" width="1156" height="917" key="find.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649586595378" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1649595493222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649326171612" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1280.680@0.0.1920.1040" timestamp="1649595493222" />
   </component>
 </project>
