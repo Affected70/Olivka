@@ -55,26 +55,26 @@
                     <h3 class="goto" id="12">Мясо/Рыба</h3>
                     <h3 class="goto" id="16">Хлеб</h3>
                     <h3 class="goto" id="17">Горячие блюда</h3>
+                </div>
+                <div class="col-md-6 text-right">
                     <h3 class="goto" id="18">Супы</h3>
                     <h3 class="goto" id="19">Закуски</h3>
                     <h3 class="goto" id="22">Ризотто</h3>
-                </div>
-                <div class="col-md-6 text-right">
-                    <h3 class="goto" id="26">Лазанья</h3>
                     <h3 class="goto" id="28">Пицца</h3>
                     <h3 class="goto" id="29">Паста</h3>
-                    <h3 class="goto" id="32">Напитки</h3>
+                    <h3 class="goto" id="30">Десерты</h3>
+                 <!--   <h3 class="goto" id="32">Напитки</h3>
                     <h3 class="goto" id="33">Чайная карта</h3>
                     <h3 class="goto" id="34">Кофейная карта</h3>
-                    <h3 class="goto" id="36">Десерты</h3>
+
                     <h3 class="goto" id="35">Коктейли</h3>
-                    <h3 class="goto" id="37">Алкоголь</h3>
+                    <h3 class="goto" id="37">Алкоголь</h3>-->
                 </div>
             </div>
         </div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
         <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
         <div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div>
-        <div></div><div></div><div></div><div></div><div></div><div></div>
+
         <div class="hard"></div>
         <div class="hard"><img src="img/interactive_menu/44.jpg" alt=""/></div>
     </div>
@@ -94,7 +94,7 @@
                 loadImagesWithShadow(page.page);
                 $("#flipbook").turn('update');
                 var book = $(this);
-                if (page < 38)
+                if (page < 33)
                     $('#flipbook .tabs').fadeOut(1000);
 
                 updateTabs();
@@ -105,7 +105,7 @@
 
                 var book = $(this);
                 console.log(book.totalPages);
-                if (page > 3 && page < 40)
+                if (page > 3 && page < 34)
                     $('#flipbook .tabs').fadeIn(1000);
                 else
                     $('#flipbook .tabs').fadeOut(1000);

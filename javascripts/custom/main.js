@@ -210,6 +210,30 @@
 
         });
 
+        $("#owl-demo7").owlCarousel({
+
+            navigation : true, // показывать кнопки next и prev
+
+            slideSpeed : 300,
+            paginationSpeed : 400,
+
+            items : 1,
+            itemsDesktop : 1,
+            itemsDesktopSmall : 1,
+            itemsTablet: 1,
+            itemsMobile : 1,
+
+            margin: 80,
+            navText: [
+                "<i class='fa fa-angle-left'></i>",
+                "<i class='fa fa-angle-right'></i>"
+            ],
+            lazyLoad: true,
+            loop: true,
+            singleItem:true
+
+        });
+
         $("#owl-demo").owlCarousel({
 
             navigation : true, // показывать кнопки next и prev
@@ -1172,11 +1196,6 @@ jQuery(window).load(function () {
         if (menu_filter == '.main_menu')
         {
             var win = window.open("main_menu.html", '_blank');
-            win.focus();
-        }
-        else if (menu_filter == '.bar_menu')
-        {
-            var win = window.open("bar_menu.html", '_blank');
             win.focus();
         }
         else if (menu_filter == '.special')
